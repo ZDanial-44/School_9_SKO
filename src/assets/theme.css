@@ -1,0 +1,25 @@
+:root {
+  --color-primary: #029cbc;
+  --color-primary-one: #58b3cc;
+  --color-primary-dark: #027a9c;
+  --color-accent:  #ffbc00;
+  --color-bg: #e0f7fa;
+  --color-white: #ffffff;
+  --color-text-dark: #212121;
+  --color-text-light: #f5f5f5;
+  --color-border: #cccccc;
+  --color-ahmet:  #29548e;
+}
+
+a {
+  all: unset;
+  cursor: pointer;
+}
+
+
+.central-main-content {
+  position: fixed;
+  top: 11%;    
+  left: 60%;
+  transform: translateX(-50%);
+}
