@@ -1,0 +1,1 @@
+import{S as a}from"./SpOne-MSaFIXj2.js";import{c as n,o as l,e as o}from"./index-BSCwzxpF.js";const p={__name:"psychologist",props:{lang:String},setup(e){return(t,r)=>(l(),n("div",null,[o(a,{lang:e.lang},null,8,["lang"])]))}};export{p as default};

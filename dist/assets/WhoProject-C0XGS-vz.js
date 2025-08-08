@@ -1,0 +1,1 @@
+import{S as a}from"./SpOne-MSaFIXj2.js";import{c as n,o,e as r}from"./index-BSCwzxpF.js";const m={__name:"WhoProject",props:{lang:String},setup(e){return(t,l)=>(o(),n("div",null,[r(a,{lang:e.lang},null,8,["lang"])]))}};export{m as default};
