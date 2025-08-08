@@ -1,0 +1,1 @@
+import{S as a}from"./SpOne-MSaFIXj2.js";import{c as n,o as r,e as o}from"./index-BSCwzxpF.js";const s={__name:"corruption",props:{lang:String},setup(e){return(t,l)=>(r(),n("div",null,[o(a,{lang:e.lang},null,8,["lang"])]))}};export{s as default};

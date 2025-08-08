@@ -1,0 +1,1 @@
+import{S as a}from"./SpOne-MSaFIXj2.js";import{c as t,o as n,e as l}from"./index-BSCwzxpF.js";const m={__name:"attestation",props:{lang:String},setup(e){return(o,r)=>(n(),t("div",null,[l(a,{lang:e.lang},null,8,["lang"])]))}};export{m as default};

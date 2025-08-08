@@ -1,0 +1,1 @@
+import{S as a}from"./SpOne-MSaFIXj2.js";import{c as n,o as r,e as t}from"./index-BSCwzxpF.js";const s={__name:"Virtual reception",props:{lang:String},setup(e){return(l,o)=>(r(),n("div",null,[t(a,{lang:e.lang},null,8,["lang"])]))}};export{s as default};

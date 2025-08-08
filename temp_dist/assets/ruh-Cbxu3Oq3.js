@@ -1,0 +1,1 @@
+import{S as a}from"./SpOne-MSaFIXj2.js";import{c as n,o as r,e as l}from"./index-BSCwzxpF.js";const m={__name:"ruh",props:{lang:String},setup(e){return(t,o)=>(r(),n("div",null,[l(a,{lang:e.lang},null,8,["lang"])]))}};export{m as default};

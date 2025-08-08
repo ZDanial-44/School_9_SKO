@@ -1,0 +1,1 @@
+import{S as a}from"./SpOne-MSaFIXj2.js";import{c as n,o as l,e as o}from"./index-BSCwzxpF.js";const m={__name:"school",props:{lang:String},setup(e){return(r,t)=>(l(),n("div",null,[o(a,{lang:e.lang},null,8,["lang"])]))}};export{m as default};

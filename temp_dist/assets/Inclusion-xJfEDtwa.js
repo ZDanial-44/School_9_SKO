@@ -1,0 +1,1 @@
+import{S as n}from"./SpOne-MSaFIXj2.js";import{c as a,o as l,e as o}from"./index-BSCwzxpF.js";const m={__name:"Inclusion",props:{lang:String},setup(e){return(r,t)=>(l(),a("div",null,[o(n,{lang:e.lang},null,8,["lang"])]))}};export{m as default};
